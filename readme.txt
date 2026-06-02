@@ -1,4 +1,4 @@
-WPAegis — Custom WooCommerce Subscription System
+Custom WooCommerce Subscription System
 
 A lightweight, secure, and PHPCS-compliant WordPress plugin that adds custom subscription functionality to WooCommerce without relying on the official WooCommerce Subscriptions extension.
 
